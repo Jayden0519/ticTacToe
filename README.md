@@ -1,5 +1,5 @@
 # ticTacToe
-Project Name: MyFirstApp 
+Project Name: ticTacToe
 Class: Advanced Java Topics
 Data: 5/18/23
 Date Submitted: 10/10/22
